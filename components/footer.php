@@ -44,4 +44,4 @@
             </div>
         </section>
 
-        <script src="assets/vendors/js/bootstrap.bundle.js"></script>
+        
