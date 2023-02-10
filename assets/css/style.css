@@ -1,0 +1,22 @@
+.main_header {
+    background-image: url(../images/main_bg.png);
+    background-size: 716px;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 85vh;
+}
+.main_p_3{
+    font-size: 18px;
+}
+.benefit{
+    margin-top: 60px;
+}
+.footerspp {
+    background-image: url(../images/footerBg2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #f8eeec;
+}
+.fitur {
+    margin-bottom: 60px;
+}
