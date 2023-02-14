@@ -14,11 +14,11 @@ if($cek > 0){
     $data = mysqli_fetch_assoc($query);
 
         $_SESSION['username'] = $data['username'];
-        header("Location: ../index.php");
+        header("Location: ../index_2.php");
     
 } else {
     $_SESSION['login_gagal'] = "Username dan password salah" ;
-    header("Location: login.php");
+    header("Location: ../signin.php");
 }
 
 ?>
